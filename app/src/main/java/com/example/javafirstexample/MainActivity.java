@@ -4,6 +4,8 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
+// 깃헙 업데이트 테스트
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
